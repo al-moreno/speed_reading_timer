@@ -17,8 +17,8 @@ GitHub Repo: https://github.com/al-moreno/speed_reading_timer
 
 GitHub Pages: https://al-moreno.github.io/speed_reading_timer/
 
-![assets/images/1.png]
-![assets/images/2.png]
+![/assets/images/1.png]
+![./assets/images/2.png]
 
  
 ## Installation:
